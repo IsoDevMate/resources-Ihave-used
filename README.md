@@ -24,10 +24,15 @@ Explore the resources organized by topics:
 1. **Firebase**
    - [Firebase Documentation](https://firebase.google.com/docs)
    - [Awesome Firebase Repos](https://github.com/topics/firebase)
+   - [Firebase-Mpesa](https://github.com/tirgei/mpesa-daraja-functions/blob/master/functions/index.js)
+  
+
+)
 
 2. **Mpesa Integration**
    - [Mpesa Developer Portal](https://developer.safaricom.co.ke/)
    - [Mpesa API Documentation](https://developer.safaricom.co.ke/mpesa)
+   - [ android~mpesa](https://otieno.medium.com/android-mpesa-integration-using-daraja-library-part-1-51633ff0b758)
 
 3. **Stripe Payment Gateway**
    - [Stripe Documentation](https://stripe.com/docs)
