@@ -81,8 +81,6 @@ screenshot handling and description??
 intergraet to github actions and deployment mayeb on Request and on Pull 
 workflows and parity  ,have docker / work on scripts 2that can help pull resources equal for the whole team 
 
-
-
 composable functions 
 layouts 
 lazy  layout 
@@ -108,3 +106,20 @@ surface and box composable differences
 How to solve null pointer execptions 
 declaring items check for nullables 
 if fun returns nothing it returns a unit 
+
+viewmodel holds the state of the Applicabtion\
+views using compose 
+Repository -mobile separates the logic of where the data comes from ... 
+
+stores data in the room db 
+Annotation using entity 
+
+
+[Create a table DAO and database creation
+add dep to it room gives you the table]
+
+DAO is an interface annotatte with dao class
+
+Dependency INjection\
+observablles have the flows 
+flows
