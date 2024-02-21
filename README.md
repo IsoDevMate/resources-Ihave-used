@@ -72,3 +72,39 @@ This project is licensed under the [MIT License](LICENSE.md). See [LICENSE.md](L
 🌐 **Explore, Learn, and Stay Awesome!**
 
 
+Flutter  Ihub 
+ci-cd
+Fastlane automation
+codemagic look into it 
+add your configd file 
+screenshot handling and description??
+intergraet to github actions and deployment mayeb on Request and on Pull 
+workflows and parity  ,have docker / work on scripts 2that can help pull resources equal for the whole team 
+
+
+
+composable functions 
+layouts 
+lazy  layout 
+alzy row lazy colllum 
+lazy stagggered grid 
+
+modifiers -change background /provide some padding make elements clickable and scrollable 
+scrollable 
+state   
+onstate change recomposition happens 
+
+remmeber api stores objects in memmeory 
+remember saveable -UI doesnt break 
+
+Remembaleable -- sort of view models 
+
+mvc -view models 
+separateion of logic and ui layout 
+
+craeted a listview composable
+surface and box composable differences
+
+How to solve null pointer execptions 
+declaring items check for nullables 
+if fun returns nothing it returns a unit 
