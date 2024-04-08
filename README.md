@@ -123,3 +123,52 @@ DAO is an interface annotatte with dao class
 Dependency INjection\
 observablles have the flows 
 flows
+
+React -April Moringa 
+React-Query 
+
+Query-
+ ```unique query key
+```query fn
+
+has a usequery hook 
+
+mutations
+
+useMutations post requests -create,del
+
+-params 
+```mutate fn 
+
+
+Query invalidation....
+handles cahing well
+``` INvalisate Wueries...
+caching invalidating  and refetching 
+
+https://webdriver.io/docs/gettingstarted
+
+#query filters 
+pagination 
+
+webdriver/cypress
+
+
+Testing your React Applications Apella 
+
+
+precommit for testing of ci/cd workflow
+sett up workflow config to run tests for the chnaged code.....
+
+concurren React and Tearing 
+
+bbefore renderign  a new ui lets the browser load the next ui then unblock the current ui 
+use Transition hook 
+-eact Hook that lets you update the state without blocking the UI.
+-sloving delays /latency on rnedering the components on the ui 
+Synchronous Renderinng.....
+
+Tearing 
+
+
+ 
